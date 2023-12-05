@@ -1,0 +1,142 @@
+C:\Users\trinh\Downloads\PRODUCT MANAGEMENT USING DATABASE FIRST\ProductManagementWindowsForms\bin\Debug\net6.0-windows\ProductManagementWindowsForms.exe
+C:\Users\trinh\Downloads\PRODUCT MANAGEMENT USING DATABASE FIRST\ProductManagementWindowsForms\bin\Debug\net6.0-windows\ProductManagementWindowsForms.deps.json
+C:\Users\trinh\Downloads\PRODUCT MANAGEMENT USING DATABASE FIRST\ProductManagementWindowsForms\bin\Debug\net6.0-windows\ProductManagementWindowsForms.runtimeconfig.json
+C:\Users\trinh\Downloads\PRODUCT MANAGEMENT USING DATABASE FIRST\ProductManagementWindowsForms\bin\Debug\net6.0-windows\ProductManagementWindowsForms.dll
+C:\Users\trinh\Downloads\PRODUCT MANAGEMENT USING DATABASE FIRST\ProductManagementWindowsForms\bin\Debug\net6.0-windows\ProductManagementWindowsForms.pdb
+C:\Users\trinh\Downloads\PRODUCT MANAGEMENT USING DATABASE FIRST\ProductManagementWindowsForms\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\trinh\Downloads\PRODUCT MANAGEMENT USING DATABASE FIRST\ProductManagementWindowsForms\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\trinh\Downloads\PRODUCT MANAGEMENT USING DATABASE FIRST\ProductManagementWindowsForms\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\trinh\Downloads\PRODUCT MANAGEMENT USING DATABASE FIRST\ProductManagementWindowsForms\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\trinh\Downloads\PRODUCT MANAGEMENT USING DATABASE FIRST\ProductManagementWindowsForms\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\trinh\Downloads\PRODUCT MANAGEMENT USING DATABASE FIRST\ProductManagementWindowsForms\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\trinh\Downloads\PRODUCT MANAGEMENT USING DATABASE FIRST\ProductManagementWindowsForms\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\trinh\Downloads\PRODUCT MANAGEMENT USING DATABASE FIRST\ProductManagementWindowsForms\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\trinh\Downloads\PRODUCT MANAGEMENT USING DATABASE FIRST\ProductManagementWindowsForms\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\trinh\Downloads\PRODUCT MANAGEMENT USING DATABASE FIRST\ProductManagementWindowsForms\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\trinh\Downloads\PRODUCT MANAGEMENT USING DATABASE FIRST\ProductManagementWindowsForms\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\trinh\Downloads\PRODUCT MANAGEMENT USING DATABASE FIRST\ProductManagementWindowsForms\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\trinh\Downloads\PRODUCT MANAGEMENT USING DATABASE FIRST\ProductManagementWindowsForms\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\trinh\Downloads\PRODUCT MANAGEMENT USING DATABASE FIRST\ProductManagementWindowsForms\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\trinh\Downloads\PRODUCT MANAGEMENT USING DATABASE FIRST\ProductManagementWindowsForms\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\trinh\Downloads\PRODUCT MANAGEMENT USING DATABASE FIRST\ProductManagementWindowsForms\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\trinh\Downloads\PRODUCT MANAGEMENT USING DATABASE FIRST\ProductManagementWindowsForms\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\trinh\Downloads\PRODUCT MANAGEMENT USING DATABASE FIRST\ProductManagementWindowsForms\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\trinh\Downloads\PRODUCT MANAGEMENT USING DATABASE FIRST\ProductManagementWindowsForms\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\trinh\Downloads\PRODUCT MANAGEMENT USING DATABASE FIRST\ProductManagementWindowsForms\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\trinh\Downloads\PRODUCT MANAGEMENT USING DATABASE FIRST\ProductManagementWindowsForms\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\trinh\Downloads\PRODUCT MANAGEMENT USING DATABASE FIRST\ProductManagementWindowsForms\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\trinh\Downloads\PRODUCT MANAGEMENT USING DATABASE FIRST\ProductManagementWindowsForms\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\trinh\Downloads\PRODUCT MANAGEMENT USING DATABASE FIRST\ProductManagementWindowsForms\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\trinh\Downloads\PRODUCT MANAGEMENT USING DATABASE FIRST\ProductManagementWindowsForms\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\trinh\Downloads\PRODUCT MANAGEMENT USING DATABASE FIRST\ProductManagementWindowsForms\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\trinh\Downloads\PRODUCT MANAGEMENT USING DATABASE FIRST\ProductManagementWindowsForms\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\trinh\Downloads\PRODUCT MANAGEMENT USING DATABASE FIRST\ProductManagementWindowsForms\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\trinh\Downloads\PRODUCT MANAGEMENT USING DATABASE FIRST\ProductManagementWindowsForms\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\trinh\Downloads\PRODUCT MANAGEMENT USING DATABASE FIRST\ProductManagementWindowsForms\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\trinh\Downloads\PRODUCT MANAGEMENT USING DATABASE FIRST\ProductManagementWindowsForms\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\trinh\Downloads\PRODUCT MANAGEMENT USING DATABASE FIRST\ProductManagementWindowsForms\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\trinh\Downloads\PRODUCT MANAGEMENT USING DATABASE FIRST\ProductManagementWindowsForms\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\trinh\Downloads\PRODUCT MANAGEMENT USING DATABASE FIRST\ProductManagementWindowsForms\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\trinh\Downloads\PRODUCT MANAGEMENT USING DATABASE FIRST\ProductManagementWindowsForms\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\trinh\Downloads\PRODUCT MANAGEMENT USING DATABASE FIRST\ProductManagementWindowsForms\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\trinh\Downloads\PRODUCT MANAGEMENT USING DATABASE FIRST\ProductManagementWindowsForms\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\trinh\Downloads\PRODUCT MANAGEMENT USING DATABASE FIRST\ProductManagementWindowsForms\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\trinh\Downloads\PRODUCT MANAGEMENT USING DATABASE FIRST\ProductManagementWindowsForms\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\trinh\Downloads\PRODUCT MANAGEMENT USING DATABASE FIRST\ProductManagementWindowsForms\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\trinh\Downloads\PRODUCT MANAGEMENT USING DATABASE FIRST\ProductManagementWindowsForms\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\trinh\Downloads\PRODUCT MANAGEMENT USING DATABASE FIRST\ProductManagementWindowsForms\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\trinh\Downloads\PRODUCT MANAGEMENT USING DATABASE FIRST\ProductManagementWindowsForms\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\trinh\Downloads\PRODUCT MANAGEMENT USING DATABASE FIRST\ProductManagementWindowsForms\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\trinh\Downloads\PRODUCT MANAGEMENT USING DATABASE FIRST\ProductManagementWindowsForms\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\trinh\Downloads\PRODUCT MANAGEMENT USING DATABASE FIRST\ProductManagementWindowsForms\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\trinh\Downloads\PRODUCT MANAGEMENT USING DATABASE FIRST\ProductManagementWindowsForms\bin\Debug\net6.0-windows\BusinessObjects.dll
+C:\Users\trinh\Downloads\PRODUCT MANAGEMENT USING DATABASE FIRST\ProductManagementWindowsForms\bin\Debug\net6.0-windows\DataAccessObjects.dll
+C:\Users\trinh\Downloads\PRODUCT MANAGEMENT USING DATABASE FIRST\ProductManagementWindowsForms\bin\Debug\net6.0-windows\Repositories.dll
+C:\Users\trinh\Downloads\PRODUCT MANAGEMENT USING DATABASE FIRST\ProductManagementWindowsForms\bin\Debug\net6.0-windows\Repositories.pdb
+C:\Users\trinh\Downloads\PRODUCT MANAGEMENT USING DATABASE FIRST\ProductManagementWindowsForms\bin\Debug\net6.0-windows\BusinessObjects.pdb
+C:\Users\trinh\Downloads\PRODUCT MANAGEMENT USING DATABASE FIRST\ProductManagementWindowsForms\bin\Debug\net6.0-windows\DataAccessObjects.pdb
+C:\Users\trinh\Downloads\PRODUCT MANAGEMENT USING DATABASE FIRST\ProductManagementWindowsForms\obj\Debug\net6.0-windows\ProductManagementWindowsForms.csproj.AssemblyReference.cache
+C:\Users\trinh\Downloads\PRODUCT MANAGEMENT USING DATABASE FIRST\ProductManagementWindowsForms\obj\Debug\net6.0-windows\ProductManagementWindowsForms.Form1.resources
+C:\Users\trinh\Downloads\PRODUCT MANAGEMENT USING DATABASE FIRST\ProductManagementWindowsForms\obj\Debug\net6.0-windows\ProductManagementWindowsForms.csproj.GenerateResource.cache
+C:\Users\trinh\Downloads\PRODUCT MANAGEMENT USING DATABASE FIRST\ProductManagementWindowsForms\obj\Debug\net6.0-windows\ProductManagementWindowsForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trinh\Downloads\PRODUCT MANAGEMENT USING DATABASE FIRST\ProductManagementWindowsForms\obj\Debug\net6.0-windows\ProductManagementWindowsForms.AssemblyInfoInputs.cache
+C:\Users\trinh\Downloads\PRODUCT MANAGEMENT USING DATABASE FIRST\ProductManagementWindowsForms\obj\Debug\net6.0-windows\ProductManagementWindowsForms.AssemblyInfo.cs
+C:\Users\trinh\Downloads\PRODUCT MANAGEMENT USING DATABASE FIRST\ProductManagementWindowsForms\obj\Debug\net6.0-windows\ProductManagementWindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\trinh\Downloads\PRODUCT MANAGEMENT USING DATABASE FIRST\ProductManagementWindowsForms\obj\Debug\net6.0-windows\ProductManagementWindowsForms.csproj.CopyComplete
+C:\Users\trinh\Downloads\PRODUCT MANAGEMENT USING DATABASE FIRST\ProductManagementWindowsForms\obj\Debug\net6.0-windows\ProductManagementWindowsForms.dll
+C:\Users\trinh\Downloads\PRODUCT MANAGEMENT USING DATABASE FIRST\ProductManagementWindowsForms\obj\Debug\net6.0-windows\refint\ProductManagementWindowsForms.dll
+C:\Users\trinh\Downloads\PRODUCT MANAGEMENT USING DATABASE FIRST\ProductManagementWindowsForms\obj\Debug\net6.0-windows\ProductManagementWindowsForms.pdb
+C:\Users\trinh\Downloads\PRODUCT MANAGEMENT USING DATABASE FIRST\ProductManagementWindowsForms\obj\Debug\net6.0-windows\ProductManagementWindowsForms.genruntimeconfig.cache
+C:\Users\trinh\Downloads\PRODUCT MANAGEMENT USING DATABASE FIRST\ProductManagementWindowsForms\obj\Debug\net6.0-windows\ref\ProductManagementWindowsForms.dll
+C:\Users\trinh\Downloads\PRODUCT MANAGEMENT USING DATABASE FIRST\ProductManagementWindowsForms\bin\Debug\net6.0-windows\appsettings.json
+C:\Users\trinh\Downloads\Sales Management\ProductManagementWindowsForms\bin\Debug\net6.0-windows\ProductManagementWindowsForms.exe
+C:\Users\trinh\Downloads\Sales Management\ProductManagementWindowsForms\bin\Debug\net6.0-windows\appsettings.json
+C:\Users\trinh\Downloads\Sales Management\ProductManagementWindowsForms\bin\Debug\net6.0-windows\ProductManagementWindowsForms.deps.json
+C:\Users\trinh\Downloads\Sales Management\ProductManagementWindowsForms\bin\Debug\net6.0-windows\ProductManagementWindowsForms.runtimeconfig.json
+C:\Users\trinh\Downloads\Sales Management\ProductManagementWindowsForms\bin\Debug\net6.0-windows\ProductManagementWindowsForms.dll
+C:\Users\trinh\Downloads\Sales Management\ProductManagementWindowsForms\bin\Debug\net6.0-windows\ProductManagementWindowsForms.pdb
+C:\Users\trinh\Downloads\Sales Management\ProductManagementWindowsForms\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\trinh\Downloads\Sales Management\ProductManagementWindowsForms\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\trinh\Downloads\Sales Management\ProductManagementWindowsForms\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\trinh\Downloads\Sales Management\ProductManagementWindowsForms\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\trinh\Downloads\Sales Management\ProductManagementWindowsForms\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\trinh\Downloads\Sales Management\ProductManagementWindowsForms\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\trinh\Downloads\Sales Management\ProductManagementWindowsForms\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\trinh\Downloads\Sales Management\ProductManagementWindowsForms\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\trinh\Downloads\Sales Management\ProductManagementWindowsForms\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\trinh\Downloads\Sales Management\ProductManagementWindowsForms\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\trinh\Downloads\Sales Management\ProductManagementWindowsForms\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\trinh\Downloads\Sales Management\ProductManagementWindowsForms\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\trinh\Downloads\Sales Management\ProductManagementWindowsForms\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\trinh\Downloads\Sales Management\ProductManagementWindowsForms\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\trinh\Downloads\Sales Management\ProductManagementWindowsForms\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\trinh\Downloads\Sales Management\ProductManagementWindowsForms\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\trinh\Downloads\Sales Management\ProductManagementWindowsForms\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\trinh\Downloads\Sales Management\ProductManagementWindowsForms\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\trinh\Downloads\Sales Management\ProductManagementWindowsForms\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\trinh\Downloads\Sales Management\ProductManagementWindowsForms\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\trinh\Downloads\Sales Management\ProductManagementWindowsForms\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\trinh\Downloads\Sales Management\ProductManagementWindowsForms\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\trinh\Downloads\Sales Management\ProductManagementWindowsForms\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\trinh\Downloads\Sales Management\ProductManagementWindowsForms\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\trinh\Downloads\Sales Management\ProductManagementWindowsForms\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\trinh\Downloads\Sales Management\ProductManagementWindowsForms\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\trinh\Downloads\Sales Management\ProductManagementWindowsForms\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\trinh\Downloads\Sales Management\ProductManagementWindowsForms\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\trinh\Downloads\Sales Management\ProductManagementWindowsForms\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\trinh\Downloads\Sales Management\ProductManagementWindowsForms\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\trinh\Downloads\Sales Management\ProductManagementWindowsForms\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\trinh\Downloads\Sales Management\ProductManagementWindowsForms\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\trinh\Downloads\Sales Management\ProductManagementWindowsForms\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\trinh\Downloads\Sales Management\ProductManagementWindowsForms\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\trinh\Downloads\Sales Management\ProductManagementWindowsForms\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\trinh\Downloads\Sales Management\ProductManagementWindowsForms\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\trinh\Downloads\Sales Management\ProductManagementWindowsForms\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\trinh\Downloads\Sales Management\ProductManagementWindowsForms\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\trinh\Downloads\Sales Management\ProductManagementWindowsForms\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\trinh\Downloads\Sales Management\ProductManagementWindowsForms\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\trinh\Downloads\Sales Management\ProductManagementWindowsForms\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\trinh\Downloads\Sales Management\ProductManagementWindowsForms\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\trinh\Downloads\Sales Management\ProductManagementWindowsForms\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\trinh\Downloads\Sales Management\ProductManagementWindowsForms\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\trinh\Downloads\Sales Management\ProductManagementWindowsForms\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\trinh\Downloads\Sales Management\ProductManagementWindowsForms\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\trinh\Downloads\Sales Management\ProductManagementWindowsForms\bin\Debug\net6.0-windows\BusinessObjects.dll
+C:\Users\trinh\Downloads\Sales Management\ProductManagementWindowsForms\bin\Debug\net6.0-windows\DataAccessObjects.dll
+C:\Users\trinh\Downloads\Sales Management\ProductManagementWindowsForms\bin\Debug\net6.0-windows\Repositories.dll
+C:\Users\trinh\Downloads\Sales Management\ProductManagementWindowsForms\bin\Debug\net6.0-windows\Repositories.pdb
+C:\Users\trinh\Downloads\Sales Management\ProductManagementWindowsForms\bin\Debug\net6.0-windows\BusinessObjects.pdb
+C:\Users\trinh\Downloads\Sales Management\ProductManagementWindowsForms\bin\Debug\net6.0-windows\DataAccessObjects.pdb
+C:\Users\trinh\Downloads\Sales Management\ProductManagementWindowsForms\obj\Debug\net6.0-windows\ProductManagementWindowsForms.csproj.AssemblyReference.cache
+C:\Users\trinh\Downloads\Sales Management\ProductManagementWindowsForms\obj\Debug\net6.0-windows\ProductManagementWindowsForms.Form1.resources
+C:\Users\trinh\Downloads\Sales Management\ProductManagementWindowsForms\obj\Debug\net6.0-windows\ProductManagementWindowsForms.csproj.GenerateResource.cache
+C:\Users\trinh\Downloads\Sales Management\ProductManagementWindowsForms\obj\Debug\net6.0-windows\ProductManagementWindowsForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trinh\Downloads\Sales Management\ProductManagementWindowsForms\obj\Debug\net6.0-windows\ProductManagementWindowsForms.AssemblyInfoInputs.cache
+C:\Users\trinh\Downloads\Sales Management\ProductManagementWindowsForms\obj\Debug\net6.0-windows\ProductManagementWindowsForms.AssemblyInfo.cs
+C:\Users\trinh\Downloads\Sales Management\ProductManagementWindowsForms\obj\Debug\net6.0-windows\ProductManagementWindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\trinh\Downloads\Sales Management\ProductManagementWindowsForms\obj\Debug\net6.0-windows\ProductManagementWindowsForms.csproj.CopyComplete
+C:\Users\trinh\Downloads\Sales Management\ProductManagementWindowsForms\obj\Debug\net6.0-windows\ProductManagementWindowsForms.dll
+C:\Users\trinh\Downloads\Sales Management\ProductManagementWindowsForms\obj\Debug\net6.0-windows\refint\ProductManagementWindowsForms.dll
+C:\Users\trinh\Downloads\Sales Management\ProductManagementWindowsForms\obj\Debug\net6.0-windows\ProductManagementWindowsForms.pdb
+C:\Users\trinh\Downloads\Sales Management\ProductManagementWindowsForms\obj\Debug\net6.0-windows\ProductManagementWindowsForms.genruntimeconfig.cache
+C:\Users\trinh\Downloads\Sales Management\ProductManagementWindowsForms\obj\Debug\net6.0-windows\ref\ProductManagementWindowsForms.dll

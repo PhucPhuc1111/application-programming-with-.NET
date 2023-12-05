@@ -1,0 +1,134 @@
+1) Create Blank Solution
+2) Right click that solution > Add > New project...
+3) Create class library DataAccess, BusinessObject
+	
+4) Right click project > Add > Project ref...
+	DataAccess ref BusinessObject
+	Repository ref DAO
+	Form ref Repository
+	
+5) Setup environment(if not install in system yet) in Command promt:
+5.1)C:/.../User>
+	dotnet tool uninstall --global dotnet-ef
+	dotnet tool install --global dotnet-ef
+
+6) Open command promt: .../Project.../BusinessObject>
+6.1) Run each line below or install Nuget Package by your self.
+	
+	dotnet add package Microsoft.EntityFrameworkCore.SqlServer
+	dotnet add package Microsoft.EntityFrameworkCore.Tools
+	dotnet add package Microsoft.Extensions.Configuration
+	dotnet add package Microsoft.Extensions.Configuration.Json
+	dotnet add package Microsoft.EntityFrameworkCore.Design
+
+	dotnet ef dbcontext scaffold "Server=(local);database=FStore;uid=sa;pwd=12345;TrustServerCertificate=True;" Microsoft.EntityFrameworkCore.SqlServer --output-dir Models
+
+***Optional: Move file Context from that scraffold to Project DataAccess (rename namespace in file too)***
+
+7)Create file "appsettings.json" in same location of file Context.
+	
+	{
+	"ConnectionStrings": {
+		"DefaultConnectionStringDB": "server =(local);database=AirConditionerShop2023DB;uid=sa;pwd=12345;TrustServerCertificate=True"
+		}
+	}
+
+***IMPORTANT: "appsettings.json" and "DbContext.cs" must be in same project layer ***
+************: Go to property of file "appsettings.json" and change: Copy if newer = Copy if newer ************
+
+8) Add this code to DbContext:
+
+		private string? GetConnectionString()
+		{
+			IConfiguration config = new ConfigurationBuilder()
+			.SetBasePath(Directory.GetCurrentDirectory())
+			.AddJsonFile("appsettings.json", true, true)
+			.Build();
+			var strConn = config["ConnectionStrings:DefaultConnectionStringDB"];
+
+			return strConn;
+		}
+	
+8.2) Then change code the code below in context:
+		protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+		=> optionsBuilder.UseSqlServer("Server=(local);Database=FStore;uid=sa;pwd=12345;TrustServerCertificate=True;");
+	
+	To this:
+		protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+		=> optionsBuilder.UseSqlServer(GetConnectionString());
+	
+9) Trong DAO:
+		using BusinessObject;
+		
+		...
+		public class..{
+			privat readonly FstoreContext _context;
+			
+			private static StaffMemberDAO instance = null;
+			private static object  instanceLock = new object();
+			
+			private MemberDAO(FstoreContext context){
+				_context=context;
+			}
+			public static StaffMemberDAO Instance
+			{
+				get
+				{
+					lock(instanceLock)
+					{
+						if(instance == null)
+						{
+							instance = new MemberDAO(new FstoreContext);
+						}
+					}
+					return instance;
+				}
+			}
+			
+			public MethodList()
+			{
+			_context.Models.Tolist();
+			}
+			...
+		}
+
+10) Create public Interface IModelRepository:
+	using BusinessObject
+	namespace...
+	{
+		public interface IAccountRepository{
+		
+		void GetModel(string...);
+		...method()...
+		}
+	}
+
+11) Create a public class implement that interface:
+	using BusinessObject
+	namespace...
+	{
+		public class ModelRepository:IModelRepository
+		{
+			public void GetModel(string...){
+				return ModelDao.Instance.GetModel(string...);
+			}
+			...
+		}
+	}
+	
+12) In form (Presentation layer):
+	namespace...
+	{
+		class frm : Form
+		{
+			//create an interface to use its method
+			private IModelRepository modelRepository = new ModelRepository();
+			
+			private void frmLogin_Load(object sender,...)
+			{
+			...
+			}
+		}
+	}
+	
+=========================================================================

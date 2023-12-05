@@ -1,0 +1,41 @@
+Travel between to form without create new instance each time:
+	class frmMain:Form{
+		private frmSecond frm2;
+		
+		private void showCurrentForm(object sender, EventArgs e)
+		{
+			this.Show();
+		}
+		private void method_Click(..)
+		{
+			if(this.PEform == null){
+				this.frm2 = new frmSecond();	//Create 1 instance of frmSecond
+				this.frm2.variable = ...;		//transport value to frmSecond
+				this.frm2.Closefrm += showCurrentForm;	//when event Closefrm is call, show again frmMain
+				this.frm2.Show();					//Start show frmSecond
+				
+				this.Hide();						//then hide this form Main
+			}
+			...same to other
+		}
+	}
+	
+	//=========================================================
+	
+	class frmSecond:Form{
+		public event EventHandler Closefrm;		//an event to interact back to frmMain
+		public string variable {get;set;}		//Global var: to recieve value from frmMain
+		
+		public frmSecond(){
+			InitializeComponent();
+			//Closefrm += delegate {do something here}; //when close do something
+		}
+		
+		private void methodClose_click(...){
+			if(closeform2==true...){
+				this.Close();			//Completely close this frmSecond without hide
+				this.Closefrm?.Invoke(this, EnventArgs.Empty);	//notify frmMain that this frmSecond is closed to execute +=showCurrentForm;
+			}
+		}
+		...
+	}

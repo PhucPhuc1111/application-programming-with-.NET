@@ -1,0 +1,46 @@
+C:\Users\trinh\Downloads\PRODUCT MANAGEMENT USING DATABASE FIRST\DataAccessObjects\bin\Debug\net6.0\DataAccessObjects.deps.json
+C:\Users\trinh\Downloads\PRODUCT MANAGEMENT USING DATABASE FIRST\DataAccessObjects\bin\Debug\net6.0\DataAccessObjects.dll
+C:\Users\trinh\Downloads\PRODUCT MANAGEMENT USING DATABASE FIRST\DataAccessObjects\bin\Debug\net6.0\DataAccessObjects.pdb
+C:\Users\trinh\Downloads\PRODUCT MANAGEMENT USING DATABASE FIRST\DataAccessObjects\bin\Debug\net6.0\BusinessObjects.dll
+C:\Users\trinh\Downloads\PRODUCT MANAGEMENT USING DATABASE FIRST\DataAccessObjects\bin\Debug\net6.0\BusinessObjects.pdb
+C:\Users\trinh\Downloads\PRODUCT MANAGEMENT USING DATABASE FIRST\DataAccessObjects\obj\Debug\net6.0\DataAccessObjects.csproj.AssemblyReference.cache
+C:\Users\trinh\Downloads\PRODUCT MANAGEMENT USING DATABASE FIRST\DataAccessObjects\obj\Debug\net6.0\DataAccessObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trinh\Downloads\PRODUCT MANAGEMENT USING DATABASE FIRST\DataAccessObjects\obj\Debug\net6.0\DataAccessObjects.AssemblyInfoInputs.cache
+C:\Users\trinh\Downloads\PRODUCT MANAGEMENT USING DATABASE FIRST\DataAccessObjects\obj\Debug\net6.0\DataAccessObjects.AssemblyInfo.cs
+C:\Users\trinh\Downloads\PRODUCT MANAGEMENT USING DATABASE FIRST\DataAccessObjects\obj\Debug\net6.0\DataAccessObjects.csproj.CoreCompileInputs.cache
+C:\Users\trinh\Downloads\PRODUCT MANAGEMENT USING DATABASE FIRST\DataAccessObjects\obj\Debug\net6.0\DataAccessObjects.csproj.CopyComplete
+C:\Users\trinh\Downloads\PRODUCT MANAGEMENT USING DATABASE FIRST\DataAccessObjects\obj\Debug\net6.0\DataAccessObjects.dll
+C:\Users\trinh\Downloads\PRODUCT MANAGEMENT USING DATABASE FIRST\DataAccessObjects\obj\Debug\net6.0\refint\DataAccessObjects.dll
+C:\Users\trinh\Downloads\PRODUCT MANAGEMENT USING DATABASE FIRST\DataAccessObjects\obj\Debug\net6.0\DataAccessObjects.pdb
+C:\Users\trinh\Downloads\PRODUCT MANAGEMENT USING DATABASE FIRST\DataAccessObjects\obj\Debug\net6.0\ref\DataAccessObjects.dll
+C:\Users\trinh\Downloads\PRODUCT MANAGEMENT USING DATABASE FIRST\DataAccessObjects\bin\Debug\net6.0\appsettings.json
+C:\Users\trinh\Downloads\Sales Management\DataAccessObjects\bin\Debug\net6.0\DataAccessObjects.deps.json
+C:\Users\trinh\Downloads\Sales Management\DataAccessObjects\bin\Debug\net6.0\DataAccessObjects.dll
+C:\Users\trinh\Downloads\Sales Management\DataAccessObjects\bin\Debug\net6.0\DataAccessObjects.pdb
+C:\Users\trinh\Downloads\Sales Management\DataAccessObjects\bin\Debug\net6.0\BusinessObjects.dll
+C:\Users\trinh\Downloads\Sales Management\DataAccessObjects\bin\Debug\net6.0\BusinessObjects.pdb
+C:\Users\trinh\Downloads\Sales Management\DataAccessObjects\obj\Debug\net6.0\DataAccessObjects.csproj.AssemblyReference.cache
+C:\Users\trinh\Downloads\Sales Management\DataAccessObjects\obj\Debug\net6.0\DataAccessObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trinh\Downloads\Sales Management\DataAccessObjects\obj\Debug\net6.0\DataAccessObjects.AssemblyInfoInputs.cache
+C:\Users\trinh\Downloads\Sales Management\DataAccessObjects\obj\Debug\net6.0\DataAccessObjects.AssemblyInfo.cs
+C:\Users\trinh\Downloads\Sales Management\DataAccessObjects\obj\Debug\net6.0\DataAccessObjects.csproj.CoreCompileInputs.cache
+C:\Users\trinh\Downloads\Sales Management\DataAccessObjects\obj\Debug\net6.0\DataAccessObjects.csproj.CopyComplete
+C:\Users\trinh\Downloads\Sales Management\DataAccessObjects\obj\Debug\net6.0\DataAccessObjects.dll
+C:\Users\trinh\Downloads\Sales Management\DataAccessObjects\obj\Debug\net6.0\refint\DataAccessObjects.dll
+C:\Users\trinh\Downloads\Sales Management\DataAccessObjects\obj\Debug\net6.0\DataAccessObjects.pdb
+C:\Users\trinh\Downloads\Sales Management\DataAccessObjects\obj\Debug\net6.0\ref\DataAccessObjects.dll
+C:\Users\Admin\Documents\FPTU\PRN211\Code\Sales Management\DataAccessObjects\bin\Debug\net6.0\DataAccessObjects.deps.json
+C:\Users\Admin\Documents\FPTU\PRN211\Code\Sales Management\DataAccessObjects\bin\Debug\net6.0\DataAccessObjects.dll
+C:\Users\Admin\Documents\FPTU\PRN211\Code\Sales Management\DataAccessObjects\bin\Debug\net6.0\DataAccessObjects.pdb
+C:\Users\Admin\Documents\FPTU\PRN211\Code\Sales Management\DataAccessObjects\bin\Debug\net6.0\BusinessObjects.dll
+C:\Users\Admin\Documents\FPTU\PRN211\Code\Sales Management\DataAccessObjects\bin\Debug\net6.0\BusinessObjects.pdb
+C:\Users\Admin\Documents\FPTU\PRN211\Code\Sales Management\DataAccessObjects\obj\Debug\net6.0\DataAccessObjects.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\FPTU\PRN211\Code\Sales Management\DataAccessObjects\obj\Debug\net6.0\DataAccessObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\FPTU\PRN211\Code\Sales Management\DataAccessObjects\obj\Debug\net6.0\DataAccessObjects.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\FPTU\PRN211\Code\Sales Management\DataAccessObjects\obj\Debug\net6.0\DataAccessObjects.AssemblyInfo.cs
+C:\Users\Admin\Documents\FPTU\PRN211\Code\Sales Management\DataAccessObjects\obj\Debug\net6.0\DataAccessObjects.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\FPTU\PRN211\Code\Sales Management\DataAccessObjects\obj\Debug\net6.0\DataAccessObjects.csproj.CopyComplete
+C:\Users\Admin\Documents\FPTU\PRN211\Code\Sales Management\DataAccessObjects\obj\Debug\net6.0\DataAccessObjects.dll
+C:\Users\Admin\Documents\FPTU\PRN211\Code\Sales Management\DataAccessObjects\obj\Debug\net6.0\refint\DataAccessObjects.dll
+C:\Users\Admin\Documents\FPTU\PRN211\Code\Sales Management\DataAccessObjects\obj\Debug\net6.0\DataAccessObjects.pdb
+C:\Users\Admin\Documents\FPTU\PRN211\Code\Sales Management\DataAccessObjects\obj\Debug\net6.0\ref\DataAccessObjects.dll
